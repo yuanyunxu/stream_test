@@ -1,8 +1,9 @@
 package question_test
 
 import (
-	"stream_test"
 	"testing"
+
+	"github.com/yuanyunxu/stream_test"
 
 	"github.com/Pallinder/go-randomdata"
 	"github.com/sumory/idgen"

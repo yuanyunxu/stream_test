@@ -4,8 +4,9 @@ import (
 	"reflect"
 	"sort"
 
-	"github.com/youthlin/stream/optional"
-	"types"
+	"github.com/yuanyunxu/stream_test/stream/types"
+
+	"github.com/yuanyunxu/stream_test/stream/optional"
 )
 
 // stream is a node show as below. which source is a iterator. head stream has no prev node.

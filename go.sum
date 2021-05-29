@@ -12,6 +12,8 @@ github.com/sumory/baseN4go v0.0.0-20141208021650-8d01e8450859 h1:SJF0arBlRkZHuyR
 github.com/sumory/baseN4go v0.0.0-20141208021650-8d01e8450859/go.mod h1:qe9F9cOyOlBmcsAyCVuhCzoh6BA86g68P9Dl7QrIV9E=
 github.com/sumory/idgen v0.0.0-20141209082050-e51875525cc4 h1:tOZNklzfn0I9l2tHMOJyQwtu6ImeVQbHhIlJXHrghpU=
 github.com/sumory/idgen v0.0.0-20141209082050-e51875525cc4/go.mod h1:mE7iorAdafeu+9d+s7lQ5MIkuZC2/UT6Qy7ea8IjX/4=
+github.com/yuanyunxu/stream_test/stream v0.0.3 h1:GA/H0JihCAf/1nn99cfIzsYyow5PD611R/B3rRxFbp4=
+github.com/yuanyunxu/stream_test/stream v0.0.3/go.mod h1:EC/10vMkg5vV7e35Xkoc8ju2u99LCyaWvpi55Et+Nnc=
 golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2/go.mod h1:djNgcEr1/C05ACkg1iLfiJU5Ep61QUkGW8qpdssI0+w=
 golang.org/x/net v0.0.0-20190311183353-d8887717615a/go.mod h1:t9HGtf8HONx5eT2rtn7q6eTqICYqUVnKs3thJo3Qplg=
 golang.org/x/sys v0.0.0-20190215142949-d0b11bdaac8a/go.mod h1:STP8DvDyc/dI5b8T5hshtkjS+E42TnysNCUPdjciGhY=

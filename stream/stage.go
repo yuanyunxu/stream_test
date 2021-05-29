@@ -1,7 +1,7 @@
 package stream
 
 import (
-	"github.com/youthlin/stream/types"
+	"github.com/yuanyunxu/stream_test/stream/types"
 )
 
 // stage 记录一个操作

@@ -3,7 +3,7 @@ package stream
 import (
 	"reflect"
 
-	"github.com/youthlin/stream/types"
+	"github.com/yuanyunxu/stream_test/stream/types"
 )
 
 const unknownSize = -1

@@ -1,4 +1,4 @@
-module stream_test
+module github.com/yuanyunxu/stream_test
 
 go 1.16
 
